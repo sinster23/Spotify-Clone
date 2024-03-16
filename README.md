@@ -8,4 +8,4 @@
 
 
 
-![Spotify Clone](https://github.com/sinster23/Screenshots/blob/main/ss2.png)
+![Spotify Clone](https://github.com/sinster23/Screenshots/blob/main/Spotifyproject.png)
