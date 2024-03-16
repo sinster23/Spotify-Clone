@@ -4,7 +4,7 @@
 
 **CSS code:** [style.css](https://github.com/sinster23/Spotify-Clone/blob/main/style.css)
 
-**JS code:** [spotify.js](https://github.com/sinster23/Spotify-Clone/blob/main/style.css)
+**JS code:** [spotify.js](https://github.com/sinster23/Spotify-Clone/blob/main/spotify.js)
 
 
 
