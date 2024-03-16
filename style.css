@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .box{
+        font-family: sans-serif;
+    }
+    .container{
+        min-height: 79.3vh;
+        background-image: linear-gradient(to top, rgba(0, 0, 0, 0.863) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(bgi.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .songs{
+        width: 46%;
+    }
+    .songinfo{
+        left: 12%;
+    }
+    .timingcount{
+        right: 15%;
+    }
+    
+}
